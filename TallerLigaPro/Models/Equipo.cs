@@ -10,6 +10,6 @@ namespace TallerLigaPro.Models
         public string Ciudad { get; set; }
         public int Titulos { get; set; }
         public bool AceptaExtranjeros { get; set; }
-        public List<Jugador> Jugadores { get; set; }
+       // public List<Jugador> Jugadores { get; set; }
     }
 }
